@@ -30,7 +30,7 @@ Este projeto permite obter informações detalhadas de uma faixa do Spotify a pa
 
 4. Crie um arquivo `.env` na raiz do projeto e adicione suas credenciais do Spotify:
 
-   ```plaintext
+   ```
    SPOTIFY_CLIENT_ID=seu_client_id_aqui
    SPOTIFY_CLIENT_SECRET=seu_client_secret_aqui
    ```
@@ -53,7 +53,7 @@ Este projeto permite obter informações detalhadas de uma faixa do Spotify a pa
 
 2. Execute o script:
 
-   ```bash
+   ```
    npm start
    ```
 
