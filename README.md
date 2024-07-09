@@ -47,7 +47,7 @@ Este projeto permite obter informações detalhadas de uma faixa do Spotify a pa
 
 1. Substitua o URL da faixa do Spotify no arquivo principal (`index.ts`):
 
-   ```typescript
+   ```
    const spotifyUrl = "https://open.spotify.com/intl-pt/track/1Lo0QY9cvc8sUB2vnIOxDT?si=9ecd33d37b724fc0";
    ```
 
