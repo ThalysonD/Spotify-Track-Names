@@ -5,7 +5,7 @@ Este projeto permite obter informações detalhadas de uma faixa do Spotify a pa
 
 ## Requisitos
 
-- [Node.js
+- [Node.js]
 - [npm]
 ## Instalação
 
