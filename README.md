@@ -11,7 +11,7 @@ Este projeto permite obter informações detalhadas de uma faixa do Spotify a pa
 
 1. Clone o repositório para o seu ambiente local:
 
-   ```
+   ```bash
    git clone https://github.com/ThalysonD/Spotify-Track-Names.git
    ```
 
