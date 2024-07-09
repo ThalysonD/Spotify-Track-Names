@@ -3,12 +3,12 @@ Spotify Track Info
 
 Este projeto permite obter informações detalhadas de uma faixa do Spotify a partir de um URL.
 
-#Requisitos
+## Requisitos
 
 - Node.js
 - npm (Node Package Manager)
 
-#Instalação
+## Instalação
 
 1. Clone o repositório para o seu ambiente local:
 
@@ -24,7 +24,7 @@ Este projeto permite obter informações detalhadas de uma faixa do Spotify a pa
 
 3. Instale as dependências do projeto:
 
-   ```bash
+   ```
    npm install
    ```
 
@@ -62,4 +62,3 @@ Este projeto permite obter informações detalhadas de uma faixa do Spotify a pa
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-```
