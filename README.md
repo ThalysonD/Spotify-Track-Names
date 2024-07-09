@@ -18,7 +18,7 @@ Este projeto permite obter informações detalhadas de uma faixa do Spotify a pa
 
 2. Navegue até o diretório do projeto:
 
-   ```bash
+   ```
    cd seu-repositorio
    ```
 
