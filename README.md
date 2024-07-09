@@ -1,36 +1,36 @@
 ```markdown
-Spotify Track Info
+# Spotify Track Info
 
 Este projeto permite obter informações detalhadas de uma faixa do Spotify a partir de um URL.
 
 ## Requisitos
 
-- Node.js
-- npm (Node Package Manager)
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
 
 ## Instalação
 
 1. Clone o repositório para o seu ambiente local:
 
-   ```
+   ```bash
    git clone https://github.com/ThalysonD/Spotify-Track-Names.git
    ```
 
 2. Navegue até o diretório do projeto:
 
-   ```
-   cd seu-repositorio
+   ```bash
+   cd Spotify-Track-Names
    ```
 
 3. Instale as dependências do projeto:
 
-   ```
+   ```bash
    npm install
    ```
 
 4. Crie um arquivo `.env` na raiz do projeto e adicione suas credenciais do Spotify:
 
-   ```
+   ```bash
    SPOTIFY_CLIENT_ID=seu_client_id_aqui
    SPOTIFY_CLIENT_SECRET=seu_client_secret_aqui
    ```
@@ -45,15 +45,15 @@ Este projeto permite obter informações detalhadas de uma faixa do Spotify a pa
 
 ## Uso
 
-1. Substitua o URL da faixa do Spotify no arquivo principal (`index.ts`):
+1. No arquivo principal (`index.ts`), substitua o URL da faixa do Spotify:
 
-   ```
-   const spotifyUrl = "https://open.spotify.com/intl-pt/track/1Lo0QY9cvc8sUB2vnIOxDT?si=9ecd33d37b724fc0";
+   ```typescript
+   const spotifyUrl = "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT?si=9ecd33d37b724fc0";
    ```
 
 2. Execute o script:
 
-   ```
+   ```bash
    npm start
    ```
 
