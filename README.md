@@ -1,5 +1,6 @@
 ```markdown
 ```bash
+```
 # Spotify Track Info
 
 Este projeto permite obter informações detalhadas de uma faixa do Spotify a partir de um URL.
