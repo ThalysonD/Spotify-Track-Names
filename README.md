@@ -1,5 +1,5 @@
 ```markdown
-```bash
+```README
 ```
 # Spotify Track Info
 
