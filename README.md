@@ -5,9 +5,8 @@ Este projeto permite obter informações detalhadas de uma faixa do Spotify a pa
 
 ## Requisitos
 
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
-
+- [Node.js
+- [npm]
 ## Instalação
 
 1. Clone o repositório para o seu ambiente local:
