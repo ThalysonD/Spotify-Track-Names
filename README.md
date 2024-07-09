@@ -1,14 +1,14 @@
 ```markdown
-# Spotify Track Info
+Spotify Track Info
 
 Este projeto permite obter informações detalhadas de uma faixa do Spotify a partir de um URL.
 
-## Requisitos
+#Requisitos
 
 - Node.js
 - npm (Node Package Manager)
 
-## Instalação
+#Instalação
 
 1. Clone o repositório para o seu ambiente local:
 
